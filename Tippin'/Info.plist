@@ -28,12 +28,6 @@
 	<array>
 		<string>armv7</string>
 	</array>
-	<key>UIAppFonts</key>
-	<array>
-		<string>BLANCH_CONDENSED_LIGHT.ttf</string>
-		<string>BLANCH_CAPS_INLINE.ttf</string>
-		<string>BLANCH_CONDENSED.ttf</string>
-	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>

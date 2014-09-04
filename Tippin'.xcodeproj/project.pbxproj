@@ -7,12 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5935A48419B0FEF9001EC695 /* BLANCH_CAPS_INLINE.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5935A47E19B0FEF9001EC695 /* BLANCH_CAPS_INLINE.ttf */; };
-		5935A48519B0FEF9001EC695 /* BLANCH_CAPS_LIGHT.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5935A47F19B0FEF9001EC695 /* BLANCH_CAPS_LIGHT.ttf */; };
-		5935A48619B0FEF9001EC695 /* BLANCH_CAPS.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5935A48019B0FEF9001EC695 /* BLANCH_CAPS.ttf */; };
-		5935A48719B0FEF9001EC695 /* BLANCH_CONDENSED_INLINE.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5935A48119B0FEF9001EC695 /* BLANCH_CONDENSED_INLINE.ttf */; };
-		5935A48819B0FEF9001EC695 /* BLANCH_CONDENSED_LIGHT.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5935A48219B0FEF9001EC695 /* BLANCH_CONDENSED_LIGHT.ttf */; };
-		5935A48919B0FEF9001EC695 /* BLANCH_CONDENSED.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5935A48319B0FEF9001EC695 /* BLANCH_CONDENSED.ttf */; };
 		59C6181619B0D6920073A48D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59C6181519B0D6920073A48D /* AppDelegate.swift */; };
 		59C6181819B0D6920073A48D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59C6181719B0D6920073A48D /* ViewController.swift */; };
 		59C6181B19B0D6920073A48D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59C6181919B0D6920073A48D /* Main.storyboard */; };
@@ -31,12 +25,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5935A47E19B0FEF9001EC695 /* BLANCH_CAPS_INLINE.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BLANCH_CAPS_INLINE.ttf; path = ../../../Documents/fonts/blanch/BLANCH_CAPS_INLINE.ttf; sourceTree = "<group>"; };
-		5935A47F19B0FEF9001EC695 /* BLANCH_CAPS_LIGHT.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BLANCH_CAPS_LIGHT.ttf; path = ../../../Documents/fonts/blanch/BLANCH_CAPS_LIGHT.ttf; sourceTree = "<group>"; };
-		5935A48019B0FEF9001EC695 /* BLANCH_CAPS.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BLANCH_CAPS.ttf; path = ../../../Documents/fonts/blanch/BLANCH_CAPS.ttf; sourceTree = "<group>"; };
-		5935A48119B0FEF9001EC695 /* BLANCH_CONDENSED_INLINE.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BLANCH_CONDENSED_INLINE.ttf; path = ../../../Documents/fonts/blanch/BLANCH_CONDENSED_INLINE.ttf; sourceTree = "<group>"; };
-		5935A48219B0FEF9001EC695 /* BLANCH_CONDENSED_LIGHT.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BLANCH_CONDENSED_LIGHT.ttf; path = ../../../Documents/fonts/blanch/BLANCH_CONDENSED_LIGHT.ttf; sourceTree = "<group>"; };
-		5935A48319B0FEF9001EC695 /* BLANCH_CONDENSED.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = BLANCH_CONDENSED.ttf; path = ../../../Documents/fonts/blanch/BLANCH_CONDENSED.ttf; sourceTree = "<group>"; };
 		59C6181019B0D6920073A48D /* Tippin'.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tippin'.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		59C6181419B0D6920073A48D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		59C6181519B0D6920073A48D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -69,22 +57,8 @@
 		5935A47C19B0FED0001EC695 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				5935A47D19B0FED9001EC695 /* Fonts */,
 			);
 			name = Resources;
-			sourceTree = "<group>";
-		};
-		5935A47D19B0FED9001EC695 /* Fonts */ = {
-			isa = PBXGroup;
-			children = (
-				5935A47E19B0FEF9001EC695 /* BLANCH_CAPS_INLINE.ttf */,
-				5935A47F19B0FEF9001EC695 /* BLANCH_CAPS_LIGHT.ttf */,
-				5935A48019B0FEF9001EC695 /* BLANCH_CAPS.ttf */,
-				5935A48119B0FEF9001EC695 /* BLANCH_CONDENSED_INLINE.ttf */,
-				5935A48219B0FEF9001EC695 /* BLANCH_CONDENSED_LIGHT.ttf */,
-				5935A48319B0FEF9001EC695 /* BLANCH_CONDENSED.ttf */,
-			);
-			name = Fonts;
 			sourceTree = "<group>";
 		};
 		59C6180719B0D6920073A48D = {
@@ -225,12 +199,6 @@
 			files = (
 				59C6181B19B0D6920073A48D /* Main.storyboard in Resources */,
 				59C6181D19B0D6920073A48D /* Images.xcassets in Resources */,
-				5935A48919B0FEF9001EC695 /* BLANCH_CONDENSED.ttf in Resources */,
-				5935A48519B0FEF9001EC695 /* BLANCH_CAPS_LIGHT.ttf in Resources */,
-				5935A48819B0FEF9001EC695 /* BLANCH_CONDENSED_LIGHT.ttf in Resources */,
-				5935A48719B0FEF9001EC695 /* BLANCH_CONDENSED_INLINE.ttf in Resources */,
-				5935A48419B0FEF9001EC695 /* BLANCH_CAPS_INLINE.ttf in Resources */,
-				5935A48619B0FEF9001EC695 /* BLANCH_CAPS.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
